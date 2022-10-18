@@ -8,3 +8,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- content/issues/b.md
