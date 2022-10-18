@@ -13,5 +13,3 @@ fields:
   config:
     required: false
   label: TEst
-pages:
-- content/issues/te.md
