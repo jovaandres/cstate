@@ -172,6 +172,10 @@ params:
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Uncategorized
+    - name: Orbit
+      description: Turnkey Service
+      category: Uncategorized
+      link: https://orbit.turnkey.id
 
   # What date format to use?
   #
